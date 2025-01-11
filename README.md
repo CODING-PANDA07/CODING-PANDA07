@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CODING-PANDA07
+- 👋 Hi, I’m Ash_Codes
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web designing.
 - 💞️ I’m looking to collaborate on backend.
-- 📫 How to reach me 06367168454 & anuragshukla9396@gmail.com
+
 
 
 <!---
